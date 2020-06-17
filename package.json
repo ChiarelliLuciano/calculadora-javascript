@@ -2,12 +2,14 @@
   "name": "calculadora",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
-  "author": "ChiarelliLuciano",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
+  "homepage": "https://ChiarelliLuciano.github.io/calculadora-javascript",
   "dependencies": {
     "gh-pages": "^3.0.0"
   }
